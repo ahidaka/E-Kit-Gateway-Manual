@@ -34,7 +34,7 @@
 <br/>
 <div style="text-align: right;">
 株式会社デバイスドライバーズ<br/>
-2020年6月22日 第2版<br/>
+2022年4月18日 第3版<br/>
 配布元 <a href="https://devdrv.github.io/E-Kit-Gateway-Manual/">
 https://devdrv.github.io/E-Kit-Gateway-Manual/</a>
 </div>
